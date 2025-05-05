@@ -85,7 +85,7 @@
 
 ```bash
 # Clone Repository
-git clone https://github.com/your-username/codecrafter.git
+git clone https://github.com/bytesumit/CodeCrafter-Full-Stack-Project-Marketplace-Platform.git
 cd codecrafter
 
 # Install dependencies
